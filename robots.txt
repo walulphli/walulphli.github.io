@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://walulphli.github.io/walulphli.txt.gz
+Sitemap: https://walulphli.github.io/app/walulphli.txt.gz
+Sitemap: https://walulphli.github.io/assets/walulphli.txt.gz
+Sitemap: https://walulphli.github.io/css/walulphli.txt.gz
+Sitemap: https://walulphli.github.io/includes/walulphli.txt.gz
+Sitemap: https://walulphli.github.io/item/walulphli.txt.gz
+Sitemap: https://walulphli.github.io/src/walulphli.txt.gz
